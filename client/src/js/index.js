@@ -1,4 +1,5 @@
 import '../css/style.css';
+import '../images/food-lunch.jpg'
 
 // const main = document.querySelector('#main');
 // main.innerHTML = '';
