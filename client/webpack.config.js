@@ -16,6 +16,7 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
+      new MiniCssExtractPlugin(),
       new HtmlWebpackPlugin({
         template: './index.html',
         title: 'Restaurant Template'
