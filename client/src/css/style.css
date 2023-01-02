@@ -48,7 +48,15 @@ img.logo {
   font-size: 22px;
 }
 
-@media screen and (max-width: 430px) {
+
+#main {
+  height: 800px;
+  background-image: url("../images/pizza-oven.png");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
   #nav-main {
     flex-direction: column;
     align-items: center;
