@@ -42,4 +42,17 @@ img {
   padding: 10px;
   margin-left: 5px;
 }
+
+@media screen and (max-width: 430px) {
+  #nav-main {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 150px;
+  }
+
+  .item-list {
+    margin-bottom: 20px;
+  }
+
 }
