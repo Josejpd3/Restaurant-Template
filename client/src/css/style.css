@@ -20,9 +20,13 @@ body {
   color: var(--primary);
 }
 
-img {
-  width: 640px;
-  height: 425px;
+
+
+img.logo {
+  position: relative;
+  height: 69.6px;
+  width: 233.2px;
+  padding: 10px;
 }
 
 #nav-main{
