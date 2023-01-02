@@ -43,8 +43,9 @@ img.logo {
   text-decoration: none;
   color: var(--monoaki);
   background-color: var(--primary);
-  padding: 10px;
-  margin-left: 5px;
+  padding: 12px;
+  margin-left: 15px;
+  font-size: 22px;
 }
 
 @media screen and (max-width: 430px) {
