@@ -57,6 +57,15 @@ img.logo {
   justify-content: center;
 }
 
+
+#main-logo {
+  position: relative;
+  height: 174px;
+  width: 583px;
+  top: 80px;
+  background: rgb(255, 255, 255);
+  padding: 30px;
+}
   #nav-main {
     flex-direction: column;
     align-items: center;
