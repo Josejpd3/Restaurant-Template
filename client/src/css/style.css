@@ -66,6 +66,8 @@ img.logo {
   background: rgb(255, 255, 255);
   padding: 30px;
 }
+
+@media screen and (max-width: 590px) {
   #nav-main {
     flex-direction: column;
     align-items: center;
