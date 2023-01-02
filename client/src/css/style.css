@@ -16,6 +16,10 @@ body {
     sans-serif;
 }
 
+.logo-section h2 {
+  color: var(--primary);
+}
+
 img {
   width: 640px;
   height: 425px;
