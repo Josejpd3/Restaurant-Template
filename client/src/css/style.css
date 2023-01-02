@@ -35,4 +35,11 @@ img {
   background-color: var(--dark);
 }
 
+.item-list > * {
+  text-decoration: none;
+  color: var(--monoaki);
+  background-color: var(--primary);
+  padding: 10px;
+  margin-left: 5px;
+}
 }
