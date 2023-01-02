@@ -36,7 +36,7 @@ img.logo {
   justify-content: space-between;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: var(--dark);
+  background-color: var(--whitesmoke);
 }
 
 .item-list > * {
